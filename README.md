@@ -9,7 +9,7 @@
 
 ### Step 4: Copy the content of `.env.example` file and paste it in the newly created `.env` file.
 
-### Step 5: Fill the values of the following variables in the `.env` file with your own credentials or you can use  mine. I have included my credentials in the email and not here for security reasons.
+### Step 5: Fill the values of the following variables in the `.env` file with your own github Oauth credentials or you can use  mine. I have included my credentials in the email and not here for security reasons.
 
 GITHUB_CLIENT_ID=
 GITHUB_CLIENT_SECRET=
